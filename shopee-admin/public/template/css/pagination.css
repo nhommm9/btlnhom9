@@ -1,0 +1,15 @@
+.number-page {
+    padding: 0px 20px;
+    color: #505050;
+    text-decoration: none;
+    margin: 0px 1px;
+}
+
+.number-page-choose {
+    width: 40px;
+    height: 30px;
+    color: #fff;
+    background: #fe6433;
+    text-align: center;
+    border-radius: 3px;
+}

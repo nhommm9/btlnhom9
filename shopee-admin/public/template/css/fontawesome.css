@@ -1,0 +1,23 @@
+.fa-star {
+    color: #ffce3d;
+    font-size: 12px;
+    margin: -1px;
+}
+
+.fa-heart {
+    color: #4c4c4c;
+    margin-right: 7px;
+}
+
+.fa-check {
+    color: #fe6433;
+    margin-left: 10px;
+}
+
+.fa-angle-left {
+    color: #505050;
+}
+
+.fa-angle-right {
+    color: #505050;
+}
